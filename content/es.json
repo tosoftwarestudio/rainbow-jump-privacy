@@ -1,0 +1,144 @@
+{
+  "lang": "es",
+  "prefix": "es/",
+  "delete_path": "eliminar-datos/",
+  "date": "29 de octubre de 2026",
+  "brand": "Privacidad de los juegos",
+  "contact": "Contacto",
+  "nav": "En esta página",
+  "skip": "Ir al contenido",
+  "policy_title": "Política de Privacidad",
+  "deletion_title": "Eliminación de cuenta y datos",
+  "updated": "Vigencia y última actualización",
+  "intro": "Privacidad en los juegos casuales y arcade de To Software.",
+  "summary": "Esta política se aplica a los juegos de To Software que enlazan a esta página. Las funciones, los servicios y el tratamiento de datos varían según el juego y la versión. Utiliza el mismo contacto para consultas o solicitudes de eliminación, indicando el juego correspondiente.",
+  "sections": [
+    [
+      "responsavel",
+      "1. Responsable y juegos incluidos",
+      [
+        "<strong>To Software</strong> es responsable del tratamiento de los datos de los juegos bajo su control. Nuestro contacto público de soporte y privacidad es <a href=\"mailto:tosoftwarestudio@gmail.com\">tosoftwarestudio@gmail.com</a>.",
+        "Esta política incluye <strong>Rainbow Jump</strong>, <strong>Color Collision</strong> y otros juegos casuales o arcade de To Software que enlacen a ella. Nombrar un juego aquí no significa que ya se haya publicado ni que todas las funciones siguientes estén activas.",
+        "Rainbow Jump puede ofrecer progreso local, Google Play Games opcional, perfil de invitado Unity, clasificación y anuncios con recompensa. Color Collision conserva progreso y preferencias locales; las funciones online y publicitarias dependen de la configuración y versión disponible. En otros juegos solo se aplica el tratamiento correspondiente a las funciones y SDK presentes en la versión utilizada."
+      ]
+    ],
+    [
+      "dados",
+      "2. Datos implicados",
+      [
+        "<strong>Progreso y preferencias locales:</strong> el récord, niveles completados, idioma, sonido/vibración y registros pendientes de sincronización pueden guardarse en el almacenamiento de la aplicación. Borrar datos locales no elimina automáticamente los registros online.",
+        "<strong>Perfil y clasificación, cuando estén disponibles:</strong> Unity Authentication y Unity Leaderboards utilizan identificador de jugador, nombre público, puntuación e información de sesión/autenticación. El nombre público y la puntuación pueden ser visibles para otros jugadores. Google Play Games es opcional; el juego puede crear o recuperar automáticamente un perfil de invitado sin pedir correo ni contraseña.",
+        "To Software no recibe tu contraseña de Google. La integración utiliza los mecanismos de autorización de la plataforma. Vincular un invitado o recuperar un perfil Google existente no fusiona automáticamente todas las cuentas. Un invitado no vinculado puede perder acceso si se elimina la sesión guardada.",
+        "<strong>Publicidad y datos técnicos:</strong> los SDK activos pueden tratar IP, ubicación aproximada inferida por IP, identificadores publicitarios y otros ID de dispositivo/app, modelo, sistema, idioma, conexión, versión, diagnósticos e interacciones con anuncios. Algunos SDK, incluidas versiones de Unity Ads, también declaran historial de compras para publicidad y medición; esto no significa que todos los juegos ofrezcan compras. Los datos efectivos dependen del SDK, versión, función y opciones aplicables. La ubicación por IP no equivale a acceder al GPS.",
+        "<strong>Soporte:</strong> al escribirnos recibimos tu correo y el contenido enviado para responder. No envíes contraseñas, tokens ni códigos de autenticación."
+      ]
+    ],
+    [
+      "finalidades",
+      "3. Finalidades",
+      [
+        "Utilizamos los datos aplicables para operar el juego, guardar preferencias/progreso, autenticar perfiles, sincronizar puntuaciones y ofrecer clasificaciones; mostrar anuncios opcionales y conceder recompensas; medir el funcionamiento de servicios y publicidad; diagnosticar fallos y prevenir fraude/abuso; y atender derechos y obligaciones legales.",
+        "Según la finalidad y la legislación, el tratamiento puede basarse en el servicio solicitado, obligaciones legales, intereses legítimos evaluados frente a tus derechos o consentimiento cuando sea necesario. Publicar esta política no sustituye el consentimiento exigido."
+      ]
+    ],
+    [
+      "anuncios",
+      "4. Anuncios y opciones de privacidad",
+      [
+        "Cuando se ofrecen anuncios con recompensa, tú eliges verlos para obtener la recompensa descrita, como una oportunidad de revivir. Unity LevelPlay puede mediar la entrega. Los servicios online y anuncios necesitan conexión y pueden no estar disponibles; jugar localmente no exige ver un anuncio.",
+        "Elegir ver un anuncio y consentir publicidad personalizada son decisiones distintas. El consentimiento, las restricciones y las opciones dependen de la región, SDK y configuración aplicable. Utiliza los controles del juego o del gestor de consentimiento cuando estén disponibles o sean necesarios. La indicación de público 13+ no demuestra que un jugador sea adulto.",
+        "Los ajustes de publicidad e identificador publicitario de Android ofrecen opciones adicionales. No garantizan eliminar todos los anuncios ni todos los datos técnicos necesarios para los servicios."
+      ]
+    ],
+    [
+      "terceiros",
+      "5. Proveedores y comunicación de datos",
+      [
+        "Solo los proveedores presentes en la versión del juego intervienen en el tratamiento correspondiente. Estos juegos pueden utilizar: <ul><li><strong>Google Play Games, Google AdMob y Google UMP:</strong> plataforma/acceso, publicidad y opciones de privacidad, según su integración. <a href=\"https://policies.google.com/privacy\">Privacidad de Google</a>.</li><li><strong>Unity Authentication, Unity Leaderboards, Unity LevelPlay, Unity Ads e ironSource Ads:</strong> perfiles, clasificaciones, mediación y publicidad, según su integración. <a href=\"https://unity.com/legal/game-player-and-app-user-privacy-policy\">Privacidad de Unity para jugadores</a>.</li></ul>",
+        "Los SDK pueden recibir datos directamente o compartirlos para operar, medir y proteger los servicios y anuncios conforme a sus finalidades y políticas. También puede ser necesario comunicar datos por obligación legal, protección de derechos o investigación de fraude dentro de los límites aplicables. El correo enviado al soporte no se publica en la clasificación.",
+        "Los nuevos servicios o cambios importantes de recopilación exigen actualizar las declaraciones del juego. Una política común no significa que todos los juegos traten los mismos datos."
+      ]
+    ],
+    [
+      "retencao",
+      "6. Conservación y eliminación",
+      [
+        "Los datos locales permanecen en el dispositivo mientras los conserven la app o las copias de seguridad de la plataforma. Pueden eliminarse con los controles de almacenamiento de Android. Desinstalar no elimina necesariamente copias ni datos ya enviados a servicios online.",
+        "Los perfiles y puntuaciones online se conservan mientras sean necesarios para las funciones y finalidades descritas, hasta su eliminación solicitada u otro procedimiento aplicable. Los mensajes de soporte se guardan lo necesario para atender y documentar la solicitud. La conservación adicional por obligaciones legales, disputas o prevención del fraude debe limitarse a la finalidad y plazo necesarios; explicaremos las excepciones pertinentes.",
+        "Para solicitar la eliminación del perfil y datos asociados bajo nuestro control, consulta <a href=\"{deletion}\">Eliminación de cuenta y datos</a>. Indica el juego o juegos correspondientes. La solicitud no elimina tu cuenta Google. Los datos conservados por proveedores también siguen sus procedimientos y criterios de conservación."
+      ]
+    ],
+    [
+      "direitos",
+      "7. Tus derechos",
+      [
+        "Según la legislación aplicable, puedes solicitar información, acceso, corrección, eliminación y otras medidas disponibles, y retirar el consentimiento cuando sea la base del tratamiento. Retirarlo puede afectar funciones que dependan de él.",
+        "Contacta con nosotros indicando el juego. Podemos necesitar información mínima para localizar el perfil y verificar la solicitud. No envíes credenciales ni documentos no solicitados."
+      ]
+    ],
+    [
+      "seguranca",
+      "8. Seguridad y tratamiento internacional",
+      [
+        "Aplicamos medidas para proteger los datos bajo nuestro control y los mecanismos de seguridad de los servicios integrados, incluidas conexiones cifradas al transmitir datos a servicios online. Ningún sistema elimina todos los riesgos.",
+        "Los proveedores pueden procesar información en otros países según su infraestructura y las protecciones exigidas por la legislación aplicable. Consulta también sus políticas."
+      ]
+    ],
+    [
+      "idade",
+      "9. Público de 13 años o más",
+      [
+        "Los juegos incluidos se destinan a personas de <strong>13 años o más</strong> y no se dirigen a menores de 13 años. Esta clasificación no sustituye los requisitos de privacidad y consentimiento aplicables a adolescentes.",
+        "No necesitas responder a un cuestionario de edad en este sitio. Si eres responsable de un menor y crees que sus datos se trataron de forma inadecuada, contacta con nosotros para investigar y tomar las medidas oportunas."
+      ]
+    ],
+    [
+      "pagina",
+      "10. Privacidad de este sitio",
+      [
+        "Estas páginas se alojan en <strong>GitHub Pages</strong>. No incluimos anuncios, formularios de registro ni herramientas propias de análisis de audiencia aquí. El proveedor puede recibir IP, datos del navegador y registros técnicos para entregar y proteger el sitio. Consulta la <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">privacidad de GitHub</a>.",
+        "Abrir enlaces externos o enviar correo también implica los servicios y políticas de sus proveedores."
+      ]
+    ],
+    [
+      "alteracoes",
+      "11. Actualizaciones y contacto",
+      [
+        "Actualizamos esta política cuando cambian los juegos, servicios o requisitos aplicables. La fecha anterior identifica la versión vigente. Se comunicarán los cambios y se pedirán nuevas autorizaciones cuando sea necesario.",
+        "<strong>To Software</strong><br>Soporte y privacidad de los juegos<br><a href=\"mailto:tosoftwarestudio@gmail.com\">tosoftwarestudio@gmail.com</a>"
+      ]
+    ]
+  ],
+  "delete_intro": "Solicita la eliminación del perfil y datos asociados a uno o varios juegos de To Software. También se admiten solicitudes de perfiles de invitado.",
+  "delete_sections": [
+    [
+      "solicitar",
+      "Cómo solicitarla",
+      [
+        "Escribe a <a href=\"mailto:tosoftwarestudio@gmail.com\">tosoftwarestudio@gmail.com</a> con el asunto <strong>To Software — Eliminación de datos — nombre del juego</strong>.",
+        "Indica <strong>qué juego o juegos</strong> están implicados, tu nombre público de perfil/clasificación y, si está disponible, el identificador de jugador de ese juego. Si no conoces el ID o perdiste la sesión de invitado, explícalo; te orientaremos sobre las opciones para localizar y confirmar el perfil. No necesitas cuenta Google ni reinstalar el juego para iniciar la solicitud.",
+        "Podemos pedir solo la información necesaria para verificar la titularidad. No envíes contraseña Google, tokens, códigos de acceso ni documentos no solicitados. Un nombre público por sí solo puede no ser suficiente para verificar la titularidad."
+      ]
+    ],
+    [
+      "escopo",
+      "Qué puede eliminarse",
+      [
+        "Tras localizar y verificar el perfil, la solicitud incluye la cuenta/perfil del juego y datos asociados bajo nuestro control, como nombre público, puntuaciones/clasificación y otros datos vinculados cuando existan. Los servicios y datos varían entre juegos y versiones.",
+        "Indica expresamente si solicitas la eliminación en varios juegos: borrar un perfil no elimina automáticamente los demás ni tu cuenta Google. Los datos locales pueden borrarse con los controles de Android; esto no sustituye la eliminación online. Volver a iniciar sesión después puede crear otro perfil.",
+        "Si las obligaciones legales, prevención de fraude o protección de derechos exigen conservar datos, limitaremos la conservación a la finalidad y plazo necesarios e informaremos de las excepciones pertinentes. Para datos controlados por proveedores, podemos orientar o trasladar solicitudes según corresponda y conforme a sus procedimientos."
+      ]
+    ],
+    [
+      "andamento",
+      "Seguimiento y contacto",
+      [
+        "Este es un canal de <strong>solicitud por correo</strong>, no una eliminación automática. Responderemos por el mismo contacto para informar de verificaciones, seguimiento, conclusión y plazos aplicables. Si no se puede identificar o verificar un perfil de invitado, explicaremos las opciones y limitaciones.",
+        "Si no tienes una app de correo configurada, copia la dirección y envía el mensaje desde tu servicio de correo. Consulta la <a href=\"{privacy}\">Política de Privacidad</a> para otros derechos y detalles."
+      ]
+    ]
+  ],
+  "email_button": "Solicitar eliminación por correo",
+  "email_subject": "To Software — Eliminación de datos",
+  "email_body": "Juego(s):\nNombre público del perfil:\nID de jugador (si está disponible):\nSolicitud e información relevante (sin contraseñas ni tokens):\n"
+}
